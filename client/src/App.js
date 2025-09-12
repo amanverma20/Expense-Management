@@ -6,12 +6,12 @@ import Register from "./pages/Register";
 function App() {
   return (
     <>
-      <Routes>
+      <Routes> 
         <Route
           path="/"
           element={
             <ProtectedRoutes>
-              <HomePage />
+              <HomePage />n
             </ProtectedRoutes>
           }
         />
