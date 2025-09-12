@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker",
+  "name": "expense-tracker-app",
   "version": "1.0.0",
   "description": "expense tracker app",
   "main": "server.js",
