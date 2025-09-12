@@ -24,3 +24,4 @@ const userSchema = new mongoose.Schema(
 const userModel = mongoose.model("users", userSchema);
 module.exports = userModel;
 // Updated on 2025-09-12
+// Updated on 2025-09-12

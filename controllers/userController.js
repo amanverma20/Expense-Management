@@ -38,3 +38,5 @@ const registerController = async (req, res) => {
 };
 
 module.exports = { loginController, registerController };
+// Updated on 2025-09-12
+// Updated on 2025-09-12
